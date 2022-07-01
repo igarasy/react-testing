@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { Bicho } from './types';
 import { faustoSearch } from './services/faustoService';
 
 export const useFalaFausto = () => {
